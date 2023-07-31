@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="spacewar.GameGL.Bullet" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAACAEAAAABAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.enemy1">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAASAAAAAAAAAAQAAAAABAAAAAAAAAAo=</HashCode>
+      <FileName>GameGL\enemy1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.enemyShip" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUABCAgAAAAgIASAQAAAQAAQAAIAAAABECAAAAAAAAA=</HashCode>
+      <FileName>GameGL\enemyShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.enemyshipbullet">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\enemyshipbullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.Game">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAkAACAIIQAAABAAAMAAAAAAIAAAABAABgAAIAAAA=</HashCode>
+      <FileName>GameGL\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.GameCell">
+    <Position X="24.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAQAAAAwACACIAAADgAAAAAAACYAA=</HashCode>
+      <FileName>GameGL\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.GameGrid">
+    <Position X="22.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAAAAAAEIAAgBAAIACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.GameObject" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABAAAAEgAAQBAAAEAAEAAAABA=</HashCode>
+      <FileName>GameGL\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.Obstacle">
+    <Position X="20" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\Obstacles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.RandomEnemy">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAASAAAAAAAAAAQAAAQABAAAAAAAAAAg=</HashCode>
+      <FileName>GameGL\RandomEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.RandomObject">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\RandomObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.ship">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAAAASQAAAJQBMEAAEAAACCIAAAAAAAAAg=</HashCode>
+      <FileName>GameGL\ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.shipBullet">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQIACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\shipBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.GameGL.SmartEnemy">
+    <Position X="17.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAASAAAAAAAAAAQAAAQABAAAAAAAAAAg=</HashCode>
+      <FileName>GameGL\SmartEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.Form1" Collapsed="true">
+    <Position X="13" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACIAAhAAAACAAIACAAghIAAAAAYAEBBAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.Form2" Collapsed="true">
+    <Position X="19.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAhAAAACUAIACgAABIAAIQAIAEBAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.Form3" Collapsed="true">
+    <Position X="18" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAIQACIAAhAAAACAAAACgAgBAAABQAIAABAAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.Form4" Collapsed="true">
+    <Position X="15.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAgABAAAACAAACCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.Form5" Collapsed="true">
+    <Position X="10.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAACAAACCAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.Form6" Collapsed="true">
+    <Position X="18.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAACAAACCAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.Form7" Collapsed="true">
+    <Position X="16.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACABAAAAAACAAACCAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spacewar.Form8" Collapsed="true">
+    <Position X="19.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAACAAACCAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="spacewar.GameGL.GameDirection">
+    <Position X="26.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAIAACACAAAAAAAI=</HashCode>
+      <FileName>GameGL\GameDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="spacewar.GameGL.GameObjectType">
+    <Position X="26.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAQAAAAQAAAABAAAACAAAAAAABAABAEAA=</HashCode>
+      <FileName>GameGL\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

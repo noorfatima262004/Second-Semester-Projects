@@ -1,0 +1,274 @@
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe.config
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).pdb
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\bin\Debug\Guna.UI2.dll
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.AssemblyReference.cache
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form1.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Properties.Resources.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.GenerateResource.cache
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CoreCompileInputs.cache
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CopyComplete
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).exe
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).pdb
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AddEmployee.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form2.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewEmployee.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.DeleteEmployee.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployee.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.fullStatus.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Pay.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AssignTask.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveApprove.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveControl.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePerformance.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Main.resources
+E:\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceForm.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.AssemblyReference.cache
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.SuggestedBindingRedirects.cache
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AddEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AssignTask.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceForm.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.DeleteEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeForm.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.employeeFullStatus.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeMain.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form1.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form2.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.fullStatus.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveApprove.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveByEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveControl.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Main.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Pay.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Properties.Resources.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePay.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePerformance.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.TaskOfEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployeeInfo.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewData.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.GenerateResource.cache
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CoreCompileInputs.cache
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).exe
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).pdb
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe.config
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).pdb
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\bin\Debug\Guna.UI2.dll
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceFormUser.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CopyComplete
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe.config
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).pdb
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\Guna.UI2.dll
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.AssemblyReference.cache
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.SuggestedBindingRedirects.cache
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AddEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AssignTask.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceFormUser.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceForm.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.DeleteEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeForm.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.employeeFullStatus.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeMain.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form1.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form2.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.fullStatus.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveApprove.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveByEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveControl.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Main.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Pay.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Properties.Resources.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePay.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePerformance.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.TaskOfEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployeeInfo.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewData.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.GenerateResource.cache
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CoreCompileInputs.cache
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CopyComplete
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).exe
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).pdb
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe.config
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).pdb
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\Guna.UI2.dll
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.AssemblyReference.cache
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.SuggestedBindingRedirects.cache
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AddEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AssignTask.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceFormUser.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceForm.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.DeleteEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeForm.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.employeeFullStatus.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeMain.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form1.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form2.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.fullStatus.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveApprove.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveByEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveControl.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Main.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Pay.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Properties.Resources.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePay.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePerformance.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.TaskOfEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployeeInfo.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewData.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewEmployee.resources
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.GenerateResource.cache
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CoreCompileInputs.cache
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CopyComplete
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).exe
+C:\Users\faiza\Desktop\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).pdb
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe.config
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).pdb
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\Guna.UI2.dll
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.AssemblyReference.cache
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.SuggestedBindingRedirects.cache
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AddEmployee.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AssignTask.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceFormUser.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceForm.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.DeleteEmployee.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeForm.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.employeeFullStatus.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeMain.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form1.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form2.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.fullStatus.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveApprove.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveByEmployee.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveControl.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Main.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Pay.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Properties.Resources.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePay.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePerformance.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.TaskOfEmployee.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployee.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewData.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewEmployee.resources
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.GenerateResource.cache
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CoreCompileInputs.cache
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CopyComplete
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).exe
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).pdb
+C:\Users\UET\Documents\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateAndDeleteByEmployee.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe.config
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).pdb
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\Guna.UI2.dll
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.AssemblyReference.cache
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.SuggestedBindingRedirects.cache
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AddEmployee.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AssignTask.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceFormUser.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceForm.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.DeleteEmployee.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeForm.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.employeeFullStatus.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeMain.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form1.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form2.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.fullStatus.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveApprove.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveByEmployee.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveControl.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Main.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Pay.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Properties.Resources.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePay.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePerformance.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.TaskOfEmployee.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployee.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateAndDeleteByEmployee.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewData.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewEmployee.resources
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.GenerateResource.cache
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CoreCompileInputs.cache
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CopyComplete
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).exe
+E:\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).pdb
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.AssemblyReference.cache
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.SuggestedBindingRedirects.cache
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AddEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AssignTask.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceFormUser.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceForm.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.DeleteEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeForm.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.employeeFullStatus.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeMain.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form1.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form2.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.fullStatus.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveApprove.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveByEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveControl.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Main.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Pay.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Properties.Resources.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePay.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePerformance.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.TaskOfEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateAndDeleteByEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewData.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewEmployee.resources
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.GenerateResource.cache
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CoreCompileInputs.cache
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).exe
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).pdb
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe.config
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).pdb
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\Guna.UI2.dll
+E:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CopyComplete
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe.config
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).exe
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\EMS(RAW).pdb
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\BouncyCastle.Crypto.dll
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\Guna.UI2.dll
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\itextsharp.dll
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\bin\Debug\itextsharp.xml
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.AssemblyReference.cache
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.SuggestedBindingRedirects.cache
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AddEmployee.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AssignTask.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceFormUser.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.AttendenceForm.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.DeleteEmployee.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeForm.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.employeeFullStatus.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.EmployeeMain.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form1.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Form2.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.fullStatus.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveApprove.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveByEmployee.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.LeaveControl.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Main.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Pay.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Properties.Resources.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePay.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.SeePerformance.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.TaskOfEmployee.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateEmployee.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.UpdateAndDeleteByEmployee.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewData.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.ViewEmployee.resources
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.GenerateResource.cache
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CoreCompileInputs.cache
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).csproj.CopyComplete
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).exe
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS(RAW).pdb
+D:\2 semester\Oop Lab\Window Tasks\EMS(RAW)23\EMS(RAW)23\EMS(RAW)23\EMS(RAW)\EMS(RAW)\obj\Debug\EMS_RAW_.Starting.resources
